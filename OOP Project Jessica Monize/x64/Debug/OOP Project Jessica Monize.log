@@ -1,0 +1,5 @@
+﻿  OOP Project Jessica Monize.cpp
+C:\Users\jessm\Pictures\♥ School\CSC275\OOP Project Jessica Monize\OOP Project Jessica Monize\OOP Project Jessica Monize.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jessm\Pictures\♥ School\CSC275\OOP Project Jessica Monize\OOP Project Jessica Monize\OOP Project Jessica Monize.cpp(41,9): warning C4101: 'dice': unreferenced local variable
+C:\Users\jessm\Pictures\♥ School\CSC275\OOP Project Jessica Monize\OOP Project Jessica Monize\OOP Project Jessica Monize.cpp(42,9): warning C4101: 'dice2': unreferenced local variable
+  OOP Project Jessica Monize.vcxproj -> C:\Users\jessm\Pictures\♥ School\CSC275\OOP Project Jessica Monize\x64\Debug\OOP Project Jessica Monize.exe
